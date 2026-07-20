@@ -1,13 +1,14 @@
 # Hi there, I'm Satya Sai Razole 👋
 
-I am a results-driven **Full-Stack Developer** dedicated to building scalable, high-impact web applications and intelligent systems. I specialize in backend architectures, API development, and computer vision integrations.
+I am a versatile **Full-Stack Software & DevOps Engineer** specializing in cross-platform mobile frameworks, multi-stack web architectures, containerization, and end-to-end network routing workflows. 
 
 ---
 
 ### 🚀 What I Do
-* 🌐 **Full-Stack Web Development** – Crafting robust applications using React, Node.js, PHP, and Python.
-* 🧠 **AI & Automation** – Building custom workflows and computer vision nodes (e.g., ComfyUI integrations).
-* 🗄️ **Database Architecture** – Designing and optimizing MySQL and MongoDB structures.
+* 🌐 **Multi-Stack Web Development** – Developing high-scale applications across the **MERN Stack** (MongoDB, Express, React, Node.js), **Go (Golang)** microservices, and traditional **PHP** environments.
+* 📱 **Cross-Platform Mobile** – Engineering native-performance mobile applications using **Flutter** and **React Native**.
+* 🐋 **DevOps & Infrastructure** – Designing optimized **Docker** container environments and deploying secure, production-ready sites on **Nginx** and **Apache** servers.
+* 🔀 **Advanced Routing** – Implementing robust **end-to-end wildcard routing** systems for multi-tenant setups and dynamic subdomains.
 
 ---
 
@@ -15,10 +16,10 @@ I am a results-driven **Full-Stack Developer** dedicated to building scalable, h
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, Java, PHP, HTML5, CSS3 |
-| **Frameworks / Libraries** | React, Node.js, Express, Flask |
-| **Databases** | MySQL, MongoDB |
-| **Tools & Platforms** | Git, GitHub, ComfyUI, Linux |
+| **Web & Backend Stacks** | MERN (MongoDB, Express, React, Node.js), Go (Golang), PHP |
+| **Mobile Development** | Flutter, React Native, Dart, JavaScript/TypeScript |
+| **Infrastructure & DevOps** | Docker, Nginx, Apache, Wildcard Routing, Linux |
+| **AI Workflows** | ComfyUI Nodes, Python Computer Vision Integrations |
 
 ---
 
@@ -30,5 +31,5 @@ I am a results-driven **Full-Stack Developer** dedicated to building scalable, h
 ---
 
 ### 🤝 Let's Connect!
-* **LinkedIn:** [satyasai-razole](https://www.linkedin.com/in/satyasai-razole-534885194/)
-* **Organization:** Active member at [@visualdoughxp](https://github.com/visualdoughxp)
+* **LinkedIn:** [satyasai-razole](https://www.linkedin.com/in/satyasai-razole-534885194)
+* **Organization:** Active contributor at [@visualdoughxp](https://github.com/visualdoughxp)
