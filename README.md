@@ -13,6 +13,16 @@ I am a versatile **Full-Stack Software & DevOps Engineer** specializing in cross
 ---
 
 ### 🛠️ Tech Stack & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 | Category | Technologies |
 | :--- | :--- |
@@ -23,10 +33,19 @@ I am a versatile **Full-Stack Software & DevOps Engineer** specializing in cross
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=satyasairazole&theme=dark&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyasairazole&theme=github-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=satyasairazole&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasairazole&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyasairazole&theme=github_dark" />
+</p>
 
 ---
 
