@@ -1,4 +1,4 @@
-# Hi there, I'm Satya Sai Razole 👋
+# Hi there, I'm Satyasairazole 👋
 
 I am a versatile **Full-Stack Software & DevOps Engineer** specializing in cross-platform mobile frameworks, multi-stack web architectures, containerization, and end-to-end network routing workflows. 
 
@@ -19,14 +19,14 @@ I am a versatile **Full-Stack Software & DevOps Engineer** specializing in cross
 | **Web & Backend Stacks** | MERN (MongoDB, Express, React, Node.js), Go (Golang), PHP |
 | **Mobile Development** | Flutter, React Native, Dart, JavaScript/TypeScript |
 | **Infrastructure & DevOps** | Docker, Nginx, Apache, Wildcard Routing, Linux |
-| **AI Workflows** | ComfyUI Nodes, Python Computer Vision Integrations |
+| **AI Workflows** | ComfyUI Nodes, Python Computer Vision Integrations, N8N |
 
 ---
 
 ### 📊 GitHub Stats
 
-![Satya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyasairazole&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyasairazole&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=satyasairazole&theme=dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyasairazole&theme=github-dark)
 
 ---
 
